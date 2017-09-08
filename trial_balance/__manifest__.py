@@ -9,7 +9,6 @@
     'summary': 'Filter on accounts Reports ,Partner, General and Financial Ledger by partner',
     'depends': ['account'],
     'installable': True,
-	'price':50.00,
-    'currency':'EUR',
-    
+    'price':50.00,
+    'currency': 'EUR',
 }
